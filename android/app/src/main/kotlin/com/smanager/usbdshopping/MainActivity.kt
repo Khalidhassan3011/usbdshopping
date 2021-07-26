@@ -1,0 +1,6 @@
+package com.smanager.usbdshopping
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
